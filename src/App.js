@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import TodoList from './components/TodoList';
-import UserList from './components/UserList'; // Додайте імпорт UserList
+import UserList from './components/UserList';
 
 function App() {
   return (
